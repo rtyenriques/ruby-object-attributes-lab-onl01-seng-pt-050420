@@ -17,5 +17,3 @@ def breed
 end
 
 end
-
-
